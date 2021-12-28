@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/moseleybioinformaticslab/universe
 	shallow = true
 	branch = HEAD
+[submodule "ICIKendallTau"]
+	path = ICIKendallTau
+	url = https://github.com/MoseleyBioinformaticsLab/ICIKendallTau
+	shallow = true
+	registered = true
+[submodule "visualizationQualityControl"]
+	path = visualizationQualityControl
+	url = https://github.com/MoseleyBioinformaticsLab/visualizationQualityControl
+	shallow = true
+	registered = true

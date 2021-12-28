@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "ICIKendallTau"
+  },
+  {
+    "package": "visualizationQualityControl"
+  }
+]
