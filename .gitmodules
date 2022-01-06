@@ -13,3 +13,8 @@
 	url = https://github.com/MoseleyBioinformaticsLab/visualizationQualityControl
 	shallow = true
 	registered = true
+[submodule "categoryCompare2"]
+	path = categoryCompare2
+	url = https://github.com/MoseleyBioinformaticsLab/categoryCompare2
+	shallow = true
+	registered = true
