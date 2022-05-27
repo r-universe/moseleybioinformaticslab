@@ -18,3 +18,8 @@
 	url = https://github.com/MoseleyBioinformaticsLab/categoryCompare2
 	shallow = true
 	registered = true
+[submodule "ScanCentricPeakCharacterization"]
+	path = ScanCentricPeakCharacterization
+	url = https://github.com/MoseleyBioinformaticsLab/ScanCentricPeakCharacterization
+	shallow = true
+	registered = true
