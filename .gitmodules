@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/moseleybioinformaticslab/universe
+	url = https://github.com/moseleybioinformaticslab/moseleybioinformaticslab.r-universe.dev
 	branch = HEAD
 [submodule "ICIKendallTau"]
 	path = ICIKendallTau
