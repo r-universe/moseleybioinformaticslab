@@ -1,0 +1,18 @@
+[
+  {
+    "package": "ICIKendallTau",
+    "releasetag": true
+  },
+  {
+    "package": "visualizationQualityControl",
+    "releasetag": true
+  },
+  {
+    "package": "categoryCompare2",
+    "releasetag": true
+  },
+  {
+    "package": "ScanCentricPeakCharacterization",
+    "releasetag": true
+  }
+]
