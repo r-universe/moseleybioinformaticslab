@@ -5,7 +5,7 @@
 [submodule "ICIKendallTau"]
 	path = ICIKendallTau
 	url = https://github.com/MoseleyBioinformaticsLab/ICIKendallTau
-	branch = v_1.2.1
+	branch = v_1.2.5
 [submodule "ScanCentricPeakCharacterization"]
 	path = ScanCentricPeakCharacterization
 	url = https://github.com/MoseleyBioinformaticsLab/ScanCentricPeakCharacterization
