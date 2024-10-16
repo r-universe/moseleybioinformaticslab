@@ -5,11 +5,11 @@
 [submodule "ICIKendallTau"]
 	path = ICIKendallTau
 	url = https://github.com/MoseleyBioinformaticsLab/ICIKendallTau
-	branch = v_1.2.5
+	branch = v_1.2.6
 [submodule "ScanCentricPeakCharacterization"]
 	path = ScanCentricPeakCharacterization
 	url = https://github.com/MoseleyBioinformaticsLab/ScanCentricPeakCharacterization
-	branch = *release
+	branch = v0.3.65
 [submodule "categoryCompare2"]
 	path = categoryCompare2
 	url = https://github.com/MoseleyBioinformaticsLab/categoryCompare2
@@ -17,4 +17,4 @@
 [submodule "visualizationQualityControl"]
 	path = visualizationQualityControl
 	url = https://github.com/MoseleyBioinformaticsLab/visualizationQualityControl
-	branch = *release
+	branch = 0.5.1
