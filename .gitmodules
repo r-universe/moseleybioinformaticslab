@@ -13,7 +13,7 @@
 [submodule "categoryCompare2"]
 	path = categoryCompare2
 	url = https://github.com/MoseleyBioinformaticsLab/categoryCompare2
-	branch = v0.200.7
+	branch = v0.200.8
 [submodule "visualizationQualityControl"]
 	path = visualizationQualityControl
 	url = https://github.com/MoseleyBioinformaticsLab/visualizationQualityControl
